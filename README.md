@@ -1,6 +1,8 @@
 # minecraft servers (some servers might not work)
 
-geovani, just paste these in the server addresses
+geovani's games
+
+just paste these in the server addresses
 
 wss://mc.primitt.dev/survival
 
