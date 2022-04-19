@@ -1,6 +1,7 @@
-# minecraft servers (some servers might not work
+# minecraft servers (some servers might not work)
 
-geovani
+geovani, just paste these in the server addresses
+
 wss://mc.primitt.dev/survival
 
  wss://sealcraft.ddns.net:442/servers
