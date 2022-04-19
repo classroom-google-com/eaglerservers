@@ -14,6 +14,7 @@ wss://mc.primitt.dev/survival
  wss://olivcraftoistheone.olliewollie123.repl.co/server
  
  wss://www.medicineschool.gq/server   or   wss://www.scienceeducation.ml/server   or   wss://www.readingbooks.gq/server
+ 
 wss://mc.b2server.tk
 
 wss://vanillacraftsmp.org/factions
