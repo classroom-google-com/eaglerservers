@@ -27,3 +27,5 @@ wss://creative.george08091.repl.co/server
 wss://mess.eu.org/s1/
  
 wss://craftclue.rocks/server
+
+wss://sus.shhnowisnottheti.me
